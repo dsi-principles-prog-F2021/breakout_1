@@ -7,5 +7,3 @@ This is Sydney Simmons
 This is Jingyuan Wu
 
 This is Yuting Mei
-
-this is a
